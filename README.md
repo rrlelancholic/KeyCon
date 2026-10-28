@@ -4,6 +4,8 @@
   <a href="../../releases/latest"><strong>Download latest release</strong></a>
 </p>
 
+https://www.youtube.com/watch?v=2v7RFChNGlw
+
 ## English
 
 KeyCon is an engineering utility for the design of keyed joints with prismatic keys, providing dimensional selection and determination of tolerances and fits.
