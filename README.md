@@ -4,9 +4,9 @@
 <p align="center">
   <strong>KeyCon — Video Demonstration</strong>
   <br><br>
-  <a href="https://www.youtube.com/watch?v=2v7RFChNGlw">
+  <a href="https://www.youtube.com/watch?v=TALYxmZGyVI">
     <img
-      src="https://img.youtube.com/vi/2v7RFChNGlw/maxresdefault.jpg"
+      src="https://img.youtube.com/vi/TALYxmZGyVI/maxresdefault.jpg"
       alt="Watch the KeyCon demonstration on YouTube"
       width="800"
     />
