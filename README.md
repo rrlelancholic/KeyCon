@@ -1,12 +1,26 @@
+
 <img width="2234" height="604" alt="KeyCon" src="https://github.com/user-attachments/assets/0411bc03-4837-418f-a226-63b07c1d275f" />
 
 <p align="center">
-  <a href="../../releases/latest"><strong>Download latest release</strong></a>
+  <strong>KeyCon — Video Demonstration</strong>
+  <br><br>
+  <a href="https://www.youtube.com/watch?v=2v7RFChNGlw">
+    <img
+      src="https://img.youtube.com/vi/2v7RFChNGlw/maxresdefault.jpg"
+      alt="Watch the KeyCon demonstration on YouTube"
+      width="800"
+    />
+  </a>
 </p>
 
-https://www.youtube.com/watch?v=2v7RFChNGlw
+<p align="center">
+  <a href="../../releases/latest"><strong>Download the Latest Release</strong></a>
+</p>
+
+---
 
 ## English
+
 
 KeyCon is an engineering utility for the design of keyed joints with prismatic keys, providing dimensional selection and determination of tolerances and fits.
 
